@@ -29,7 +29,7 @@ if ($mysqli->connect_error) {
 }
 
 
-$rpc_host = "127.0.0.1";
+$rpc_host = "139.180.211.157";
 $rpc_port = "22556";
 $rpc_user = "dogecoin";
 $rpc_pass = "dragonexchange";
